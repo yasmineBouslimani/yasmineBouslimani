@@ -4,6 +4,9 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Yasmine%20Bouslimani-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/yasmine-bouslimani/)](https://www.linkedin.com/in/yasmine-bouslimani/) [![GitHub followers](https://img.shields.io/github/followers/yasmineBouslimani?label=Follow&style=social)](https://github.com/yasmineBouslimani/?tab=follow) [![Gmail Badge](https://img.shields.io/badge/-yasmineBouslimani-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:yasmine.bouslimani@gmail.com)](mailto:yasmine.bouslimani@gmail.com) 
 
+<br />
+<br />
+<br />
 
 ## 💻 My Tech Stack
 
@@ -17,6 +20,9 @@
 | [![HTML5](https://img.shields.io/static/v1?label=&message=HTML&color=ff751a&logo=HTML5&logoColor=FFFFFF)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) [![CSS3](https://img.shields.io/static/v1?label=&message=css3&color=47d147&logo=css3&logoColor=FFFFFF)](https://www.python.org/) | [![Vap&Cie](https://img.shields.io/static/v1?label=Portfolio-Site&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/yasmineBouslimani/vapot_cie) |
 <!-- END OF PROFILE STACK, DO NOT REMOVE -->
 
+<br />
+<br />
+<br />
 
  ## 🎯 My other tools :
 
@@ -36,7 +42,6 @@
 <img align="center" alt="yasmineBouslimani Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmineBouslimani" />
 <br />
 <br />
-
 <div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
