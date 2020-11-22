@@ -18,7 +18,7 @@
 <!-- END OF PROFILE STACK, DO NOT REMOVE -->
 
 
- ### My other tools :
+ ## 🎯 My other tools :
 
 <img align="left" alt="bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
@@ -31,15 +31,11 @@
 <br />
 <br />
 
- ### Most Used Languages :
+ ### 💫 Most Used Languages :
 
 <img align="center" alt="yasmineBouslimani Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmineBouslimani" />
 <br />
 <br />
-<br />
-
-
-[🦜 parrots](https://cultofthepartyparrot.com):
 
 <div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
