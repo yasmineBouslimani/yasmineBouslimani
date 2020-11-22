@@ -33,15 +33,15 @@
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="npm" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" />
 <img align="left" alt="IntelliJ IDEA" width="26px" src="https://raw.githubusercontent.com/JonasGroeger/intellij-idea-community/master/logo-400.png" />
 <img align="left" alt="Dart" width="26px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/dartlang.png" />
 <img align="left" alt="Vagrant" width="26px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/vagrant.png" />
 <img align="left" alt="Gitlab" width="26px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/gitlab.png" />
 <img align="left" alt="Mysql" width="26px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/mysql.png" />
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Linux-Ubuntu" width="26px" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linux-tux.svg" />
-<img align="left" alt="Windows10" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" />
+<img align="left" alt="Windows10" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" />
 <br />
 <br />
 <br />
