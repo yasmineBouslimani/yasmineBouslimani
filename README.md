@@ -4,10 +4,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Yasmine%20Bouslimani-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/yasmine-bouslimani/)](https://www.linkedin.com/in/yasmine-bouslimani/) [![GitHub followers](https://img.shields.io/github/followers/yasmineBouslimani?label=Follow&style=social)](https://github.com/yasmineBouslimani/?tab=follow) [![Gmail Badge](https://img.shields.io/badge/-yasmineBouslimani-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:yasmine.bouslimani@gmail.com)](mailto:yasmine.bouslimani@gmail.com) 
 
-
-
 <img align="right" alt="yasmineBouslimani Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmineBouslimani" />
-<br />
 
 
 ## 💻 My Tech Stack
@@ -26,7 +23,7 @@
  ### My other tools :
 
 <img align="left" alt="bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
