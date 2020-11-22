@@ -5,6 +5,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Yasmine.Bouslimani-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yasmine-bouslimani/)&nbsp; &nbsp; 
 [![Gmail Badge](https://img.shields.io/badge/-@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:yasmine.bouslimani@gmail.com "Connect via Email")&nbsp; &nbsp; 
 
+[![Linkedin Badge](https://img.shields.io/badge/-Anurag%20Singh-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/ashlyemavericks/)](https://www.linkedin.com/in/ashlyemavericks/) [![Twitter Badge](http://img.shields.io/badge/-@ashleymavericks-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/ashlyemavericks)](https://twitter.com/ashlyemavericks) [![Medium Badge](http://img.shields.io/badge/-@ashleymavericks-1ca0f1?style=social&logo=Medium&logoColor=black&link=https://medium.com/@ashleymavericks)](https://medium.com/@ashleymavericks) [![GitHub followers](https://img.shields.io/github/followers/ashleymavericks?label=Follow&style=social)](https://github.com/ashleymavericks/?tab=follow) [![Gmail Badge](https://img.shields.io/badge/-singhanurag024-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:singhanurag024@gmail.com)](mailto:singhanurag024@gmail.com) 
+
+
 
 <img align="right" alt="yasmineBouslimani Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmineBouslimani" />
 <br />
