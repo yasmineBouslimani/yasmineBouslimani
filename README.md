@@ -33,5 +33,5 @@
 
  ### Most Used Languages :
 
-<img align="right" alt="yasmineBouslimani Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmineBouslimani" />
+<img align="center" alt="yasmineBouslimani Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmineBouslimani" />
 
