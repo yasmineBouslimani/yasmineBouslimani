@@ -1,7 +1,6 @@
 # 👨🏻‍💻 [Yasmine Bouslimani](https://github.com/yasmineBouslimani) [@yasmineBouslimani](https://github.com/yasmineBouslimani)
 <br />
-<br />
-<br />
+
 
 ### Hi there !!👋  
 
@@ -16,7 +15,7 @@
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
 | 💻 **Technology** | 🚀 **Projects** |
 |-|-|
-| [![PHP7](https://img.shields.io/static/v1?label=&message=php&color=47d147&logo=php&logoColor=FFFFFF)](https://www.python.org/) [![Symfony4](https://img.shields.io/static/v1?label=&message=symfony&color=47d147&logo=symfony&logoColor=FFFFFF)](https://www.python.org/) [![Laravel8](https://img.shields.io/static/v1?label=&message=laravel&color=47d147&logo=laravel&logoColor=FFFFFF)](https://www.python.org/) | [![new-deal-institut](https://img.shields.io/static/v1?label=new-deal-institut&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/yasmineBouslimani) [![PHPlaylist-réinvente-le-jukebox](https://img.shields.io/static/v1?label=PHPlaylist-réinvente-le-jukebox&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://wildnplay.herokuapp.com/) |
+| [![PHP7](https://img.shields.io/static/v1?label=&message=PHP7&color=47d147&logo=PHP7&logoColor=FFFFFF)](https://www.python.org/) [![Symfony4](https://img.shields.io/static/v1?label=&message=SYMFONY4&color=47d147&logo=SYMFONY&logoColor=FFFFFF)](https://www.python.org/) [![Laravel8](https://img.shields.io/static/v1?label=&message=LARAVEL8&color=47d147&logo=laravel&logoColor=FFFFFF)](https://www.python.org/) | [![new-deal-institut](https://img.shields.io/static/v1?label=new-deal-institut&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/yasmineBouslimani) [![PHPlaylist-réinvente-le-jukebox](https://img.shields.io/static/v1?label=PHPlaylist-réinvente-le-jukebox&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://wildnplay.herokuapp.com/) |
 | [![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F1E05A&logo=javascript&logoColor=FFFFFF)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [![Astrogame](https://img.shields.io/static/v1?label=Astrogame&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/yasmineBouslimani/astrogame) |
 | [![Vue.js](https://img.shields.io/static/v1?label=&message=Vue.js&color=47d147&logo=vue.js&logoColor=FFFFFF)](https://nodejs.org/en/) | [![Gestion-de-tickets](https://img.shields.io/static/v1?label=Gestion-de-tickets&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/yasmineBouslimani/takatoukite)|
 | [![Flutter](https://img.shields.io/static/v1?label=&message=Flutter&color=4FA1EF&logo=flutter&logoColor=FFFFFF)](https://flutter.dev/) | [![Convertisseur-de-devises](https://img.shields.io/static/v1?label=Convertisseur-de-devises&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com) |
