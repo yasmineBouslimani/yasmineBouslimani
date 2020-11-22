@@ -29,7 +29,7 @@
 <br /> 
 <br/>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Yasmine Bouslimani-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yasmine-bouslimani/)&nbsp; &nbsp; 
+[![Linkedin Badge](https://img.shields.io/badge/-Yasmine.Bouslimani-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yasmine-bouslimani/)&nbsp; &nbsp; 
 [![Gmail Badge](https://img.shields.io/badge/-@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:yasmine.bouslimani@gmail.com "Connect via Email")&nbsp; &nbsp; 
 
 
