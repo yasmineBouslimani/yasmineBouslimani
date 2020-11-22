@@ -4,8 +4,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Yasmine%20Bouslimani-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/yasmine-bouslimani/)](https://www.linkedin.com/in/yasmine-bouslimani/) [![GitHub followers](https://img.shields.io/github/followers/yasmineBouslimani?label=Follow&style=social)](https://github.com/yasmineBouslimani/?tab=follow) [![Gmail Badge](https://img.shields.io/badge/-yasmineBouslimani-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:yasmine.bouslimani@gmail.com)](mailto:yasmine.bouslimani@gmail.com) 
 
-<img align="right" alt="yasmineBouslimani Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmineBouslimani" />
-
 
 ## 💻 My Tech Stack
 
@@ -32,9 +30,8 @@
 <img align="left" alt="IntelliJ IDEA" width="26px" src="https://raw.githubusercontent.com/JonasGroeger/intellij-idea-community/master/logo-400.png" />
 <br />
 <br />
-<br />
-<br /> 
-<br/>
 
+ ### Most Used Languages :
 
+<img align="right" alt="yasmineBouslimani Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmineBouslimani" />
 
